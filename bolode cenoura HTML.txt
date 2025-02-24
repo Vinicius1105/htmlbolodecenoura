@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+     <h1> OI </h1>
+     <h2> OI </h2>
+     <h3> OI </h3>
+     <h4> OI </h4>
+     <h5> OI </h5>
+     <h6> OI </h6>
+
+     <hr>
+ <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     Sed, quaerat illo in omnis iste dolore repellat, 
+    eum fugiat eaque eius dolorum sequi deleniti neque deserunt 
+    ducimus incidunt qui veritatis! Quod!</p>
+
+    <hr> 
+
+<pre> 
+    A vida é bela 
+    igual flor amarela 
+    tal como um quadro pintado
+    com aquarela.  
+</pre>
+
+<hr>
+
+<img src="images/unnamed.png" alt="imagem bom dia">
+
+<hr>
+
+<h3> Como Fazer Bolo de Cenoura Caseiro? </h3>
+<img src="images/download.jpg" alt=" Bolo de Cenoura Caseiro">
+
+<h4> RECEITA </h4>
+<hr>
+<h4> INGREDIENTES: </h4>
+<li> 3 ÓVOS </li>
+<li> 2 XÍCARAS DE ÓLEO </li>
+<lI> 2/4 XÍCARA DE LEITE </lI>
+<li> 3/4 FARINHA DE TRIGO </li>
+<li> 3 COLHERES DE MARGARINA </li>
+<LI> 1 XÍCARA DE CHÁ DE PÓ ROIAL </LI>
+<hr>
+
+<h2> Acompanhe o Modo de Preparo no Site </h2>
+
+<a href="https://www.receiteria.com.br/receitas-de-bolo-fofinho/">Clique Aqui</a>
+
+<hr> 
+<a href="secondPage.html">Segunda Página</a>
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segunda Página</title>
+</head>
+<body>
+    <h2> Como Fazer Bolinho de Chuva? </h2>
+
+    <a href="index.html">Voltar</a>
+</body>
+</html>
+
